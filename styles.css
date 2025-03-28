@@ -450,19 +450,19 @@ a{
   }
 
   #project1{
-    background-image: url(weather.png);
+    background-image: url(images/weather.png);
   }
 
   #project2{
     margin-left:120px;
-    background-image: url(passwordimg.png);
+    background-image: url(images/passwordimg.png);
   }
   #project3{
-    background-image: url(dev.png);
+    background-image: url(images/dev.png);
   }
   #project4{
     margin-left:120px;
-    background-image: url(tic.png);
+    background-image: url(images/tic.png);
   }
 
   @media (max-width:1300px) {
